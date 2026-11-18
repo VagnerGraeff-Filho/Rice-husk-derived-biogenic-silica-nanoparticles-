@@ -1,2 +1,2 @@
 # Rice-husk-derived-biogenic-silica-nanoparticles-
-Repository created to store files related to the manuscript "Biogenic silica nanoparticles derived from rice husks for the management of stored-grain pests: physicochemical characterization, insecticidal activity, and economic potential"
+Repository created to store files related to the manuscript "Biogenic silica nanoparticles derived from rice husks for the management of stored-grain pests: physicochemical characterization, insecticidal activity, and economic potential." The files include data tables on mortality, damage caused to kernels, and weevil mobility. An R script is also included among the files.
